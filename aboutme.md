@@ -5,6 +5,7 @@
 1. [Education](#education)
 2. [Personal-values](#personal-values)
 3. [Goals](#goals)
+4. [Hobbies](#hobbies)
 
 ## Education:
 
@@ -17,3 +18,7 @@ i am a very hoenst, shy, hard working and try to be the best person i can be. To
 ## Goals:
 
 Finish this course with good grades. Find a job which i can enjoy and look forward to going into work each day.
+
+## Hobbies:
+
+I enjoy photography, most of my pictures are of sunrises, sunsets, and scenery photos. I also like taking photo and video pictures with a drone because you can't get photos from different heights and from placee that you might not be able to fit in.
