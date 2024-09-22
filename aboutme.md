@@ -1,6 +1,8 @@
 # About me
 
-##Table of contents
+## Table of contents
+
+[Education](#education)
 
 ## Education:
 
