@@ -4,7 +4,7 @@
 
 1. [Education](#education)
 2. [Personal-values](#personal-values)
-3. [Goals]
+3. [Goals](#goals)
 
 ## Education:
 
