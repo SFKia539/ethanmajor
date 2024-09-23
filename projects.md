@@ -17,3 +17,4 @@ Another one of my prjects that i worked on was with microsoft and design the Xbo
 ## Samsung 
 
 I also worked with samsung to help build there tv's such as their smart tv and their plasma tv back in the day i recommended them to switch to plasma. It was a great idea at the time but shortly after we started production we noticed some flaws like maintaining them was a pain and they were extermly heavy for people to carry short distances. They were pertty bulky as well so that means you cloudn't carry it alone and it might have even to heavy for two people to carry in to house hold. So the company decided to go with a slimmer modle. And with the advances of wifi we started making more smart tv, and that are a lot thinner. 
+Hi
