@@ -4,7 +4,7 @@
 
 1. [Apple](#apple-project)
 2. [Microsoft](#microsoft)
-Hi there
+3. [Samsung](#samsung)
    
 ## Apple-project
 
@@ -14,3 +14,4 @@ So one of the projects that i worked on was the very frist Iphone. Me and Steve 
 
 Another one of my prjects that i worked on was with microsoft and design the Xbox360 which i also helped in the back ground. help design Halo 3 the game. The microsoft team wanted a cheap console and a way for it to be manufacturted quickly and efficently. So i suggest that we get a big software company that could produce thousands of motherboards in a day so that we as a company can popular demands and not fall behind our competitors. Little to say they loved the idea.
 
+## Samsung
