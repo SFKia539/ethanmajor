@@ -4,7 +4,7 @@
 
 1. [Apple](#apple-project)
 2. [Microsoft](#microsoft)
-3. [Samsung](#samsung)
+Hi there
    
 ## Apple-project
 
